@@ -10,9 +10,9 @@ const deliveryPartnerDetails=[
     {
         name:"Chotu",
         pincode:804452,
-        landmark:"482,Patel Nagar",
+        landmark:"482,Buddh Nagar",
         address:"Masaurhi Patna",
-        distance:"5 Km",
+        distance:"3 Km",
         rating:5
     },
     {
